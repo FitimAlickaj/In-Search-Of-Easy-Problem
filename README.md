@@ -17,3 +17,13 @@ Output
 Print one word: "EASY" if the problem is easy according to all responses, or "HARD" if there is at least one person who thinks the problem is hard.
 
 You may print every letter in any register: "EASY", "easy", "EaSY" and "eAsY" all will be processed correctly.
+input
+3
+0 0 1
+output
+HARD
+input
+1
+0
+output
+EASY
